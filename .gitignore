@@ -1,0 +1,8 @@
+# vi swap files
+.*.swp
+
+# compiled python object files
+*.pyc
+
+# vscode stuff
+.vscode/*
